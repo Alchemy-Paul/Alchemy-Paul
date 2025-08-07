@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Okoh Paul 👋
 
-<!--
-**Alchemy-Paul/Alchemy-Paul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Cloud Security Engineer | DevSecOps Enthusiast | Networking + Automation Focused
 
-Here are some ideas to get you started:
+🔒 I specialize in building and securing cloud environments using AWS, Palo Alto Cortex, and open-source security tools.  
+💡 Currently learning: XSOAR, CI/CD pipeline security, Terraform  
+📚 Background in networking (Cisco NetAcad) and cybersecurity foundations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Key Skills
+- Cloud: AWS (S3, IAM, EC2, CloudTrail)
+- Security: Cortex XSOAR, IAM, WAF, SIEM
+- Networking: Subnetting, NAT, VPN, ACLs
+- DevSecOps: GitHub Actions, Secret Scanning, Terraform
