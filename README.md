@@ -6,8 +6,7 @@
 💡 Currently learning: XSOAR, CI/CD pipeline security, Terraform  
 📚 Background in networking (Cisco NetAcad) and cybersecurity foundations
 
-## 🔧 Key Skills
+## 🔧 Skills
 - Cloud: AWS (S3, IAM, EC2, CloudTrail)
 - Security: Cortex XSOAR, IAM, WAF, SIEM
 - Networking: Subnetting, NAT, VPN, ACLs
-- DevSecOps: GitHub Actions, Secret Scanning, Terraform
